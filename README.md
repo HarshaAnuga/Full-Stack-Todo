@@ -7,6 +7,16 @@ Backend:Node,Express
 
 Database:MongoDb
 
+ To run This Application 
+
+     npm install express
+
+     npm install vite@latest
+
+     npm run dev
+
+     npm run node
+ 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
