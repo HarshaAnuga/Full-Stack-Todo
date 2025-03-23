@@ -1,4 +1,9 @@
 # React + Vite
+This a Full Stack Todo Application 
+Tech Stack:
+Frontend:React
+Backend:Node,Express
+Database:MongoDb
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
