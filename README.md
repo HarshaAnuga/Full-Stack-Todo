@@ -10,10 +10,13 @@ Database:MongoDb
  To run This Application 
 
      npm install express
+     
 
      npm install vite@latest
+     
 
      npm run dev
+     
 
      npm run node
  
