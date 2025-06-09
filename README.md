@@ -5,7 +5,7 @@ Frontend:React
 
 Backend:Node,Express
 
-Database:MongoDb
+Database:MongoDb.
 
  To run This Application 
 
