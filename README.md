@@ -1,9 +1,9 @@
 # Full Stack Todo Application 
 Tech Stack:
 
-Frontend:React
+Frontend:Reactjs
 
-Backend:Node,Express
+Backend:Nodejs,Expressjs
 
 Database:MongoDb.
 
